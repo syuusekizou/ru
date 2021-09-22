@@ -18,6 +18,7 @@
 2. singableList配列に追加したい内容を記入する
 3. 変更後、ru-list.jsを保存する
 
+
 # ライブラリ
 - @riversunさんのライブラリを使用
 - https://github.com/riversun/sortable-table

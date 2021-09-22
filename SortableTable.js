@@ -29,3 +29,8 @@ let index = 0;
 singableList.forEach(x => items.push({ id: index++, name: x[0], url: x[1] }));
 sortObj.setData(items);
 
+// button handlers
+document.querySelector('#btnReset')
+    .addEventListener('click', () => {
+        sortObj.resetData();
+    });
