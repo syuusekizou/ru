@@ -26,4 +26,4 @@
 
 
 # サンプルサイト
-- http://fumyuun.html.xdomain.jp/ru-list.html
+- http://fumyuun.html.xdomain.jp/ru/ru-list.html
