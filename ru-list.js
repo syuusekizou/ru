@@ -308,5 +308,6 @@ const singableList = [
   ['Glory Steady Go!', 'https://www.nicovideo.jp/watch/sm39268154', 'キノシタ'],
   ['シャンティ', 'https://www.nicovideo.jp/watch/sm39348341', 'wotaku'],
   ['FAKE', 'https://youtu.be/uJryb4NiBK4', 'ミスミ'],
+  ['カナデトモスソラ', 'https://youtu.be/n092OHFEUjE', 'ササノマリイ'],
 ];
 
