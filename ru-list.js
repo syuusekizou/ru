@@ -303,5 +303,10 @@ const singableList = [
   ['スロウダウナー', 'https://www.nicovideo.jp/watch/sm33460133', 'ろくろ'],
   ['幸福な死を', 'https://www.nicovideo.jp/watch/sm17962076', 'きくお'],
   ['メンヘラじゃないもん', 'https://youtu.be/gtZSWIrDJu4', '勇魚'],
+  ['チルドレンレコード', 'https://youtu.be/y40cBCJCTxw', 'じん'],
+  ['流星のパルス', 'https://youtu.be/d5Bd7sEJjfg', '*Luna'],
+  ['Glory Steady Go!', 'https://www.nicovideo.jp/watch/sm39268154', 'キノシタ'],
+  ['シャンティ', 'https://www.nicovideo.jp/watch/sm39348341', 'wotaku'],
+  ['FAKE', 'https://youtu.be/uJryb4NiBK4', 'ミスミ'],
 ];
 
