@@ -309,5 +309,7 @@ const singableList = [
   ['シャンティ', 'https://www.nicovideo.jp/watch/sm39348341', 'wotaku'],
   ['FAKE', 'https://youtu.be/uJryb4NiBK4', 'ミスミ'],
   ['カナデトモスソラ', 'https://youtu.be/n092OHFEUjE', 'ササノマリイ'],
+  ['ロータスイーター','https://www.nicovideo.jp/watch/sm38860352','青栗鼠'],
+  ['レメディ・レディ','https://www.nicovideo.jp/watch/sm39071216','夏山よつぎ'],
 ];
 
