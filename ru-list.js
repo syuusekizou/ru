@@ -311,5 +311,11 @@ const singableList = [
   ['カナデトモスソラ', 'https://youtu.be/n092OHFEUjE', 'ササノマリイ'],
   ['ロータスイーター','https://www.nicovideo.jp/watch/sm38860352','青栗鼠'],
   ['レメディ・レディ','https://www.nicovideo.jp/watch/sm39071216','夏山よつぎ'],
+  ['Beat Eater','https://www.nicovideo.jp/watch/sm39059625','ポリスピカデリー'],
+  ['Color of Drops','https://www.nicovideo.jp/watch/sm39386288','40mP'],
+  ['自傷無色','https://www.nicovideo.jp/watch/sm19877037','ねこぼーろ'],
+  ['フロムトーキョー','https://www.nicovideo.jp/watch/sm39106936','夏代孝明'],
+  ['フクロウ～フクロウが知らせる客が来たと～','https://youtu.be/FHwjgQrccqo','KOKIA'],
+  ['','',''],
 ];
 
