@@ -316,6 +316,11 @@ const singableList = [
   ['自傷無色','https://www.nicovideo.jp/watch/sm19877037','ねこぼーろ'],
   ['フロムトーキョー','https://www.nicovideo.jp/watch/sm39106936','夏代孝明'],
   ['フクロウ～フクロウが知らせる客が来たと～','https://youtu.be/FHwjgQrccqo','KOKIA'],
+  ['炉心融解','https://youtu.be/VGnEIw86fsE','kuma（alfred）'],
+  ['拝啓ドッペルゲンガー','https://youtu.be/ZiJySYUCpag','kemu'],
+  ['右肩の蝶','https://youtu.be/wGqfk-sgJHI','水野悠良'],
+  ['ロストワンの号哭','https://www.nicovideo.jp/watch/sm20270073','Neru'],
+  ['テレキャスタービーボーイ(long ver.)', 'https://youtu.be/LDhfDXSe5Ek', 'すりぃ'],
   ['','',''],
 ];
 
