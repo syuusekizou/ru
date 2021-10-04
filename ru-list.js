@@ -321,6 +321,8 @@ const singableList = [
   ['右肩の蝶','https://youtu.be/wGqfk-sgJHI','水野悠良'],
   ['ロストワンの号哭','https://www.nicovideo.jp/watch/sm20270073','Neru'],
   ['テレキャスタービーボーイ(long ver.)', 'https://youtu.be/LDhfDXSe5Ek', 'すりぃ'],
+  ['Happy Halloween','https://www.nicovideo.jp/watch/sm26909754','Junky'],
+  ['ただ選択があった','https://www.nicovideo.jp/watch/sm39000251','フロクロ'],
   ['','',''],
 ];
 
