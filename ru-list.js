@@ -323,6 +323,10 @@ const singableList = [
   ['テレキャスタービーボーイ(long ver.)', 'https://youtu.be/LDhfDXSe5Ek', 'すりぃ'],
   ['Happy Halloween','https://www.nicovideo.jp/watch/sm26909754','Junky'],
   ['ただ選択があった','https://www.nicovideo.jp/watch/sm39000251','フロクロ'],
+  ['ライカ','https://www.nicovideo.jp/watch/sm30265594','yamada'],
+  ['メリュー','https://www.nicovideo.jp/watch/sm26241520','ナブナ'],
+  ['きみのかみ','https://www.nicovideo.jp/watch/sm33378932','Sori Sawada'],
+  ['阿吽のビーツ','https://youtu.be/Xfp6v0Mze3k','羽生まゐご'],
   ['','',''],
 ];
 
