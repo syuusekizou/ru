@@ -284,7 +284,7 @@ const singableList = [
   ['不埒な喝采', 'https://youtu.be/lfJCpDAhpho', 'ポリスピカデリー'],
   ['共感覚おばけ', 'https://www.nicovideo.jp/watch/sm26342925', 'ねこぼーろ'],
   ['とても素敵な六月でした', 'https://www.nicovideo.jp/watch/sm23772100', 'Eight'],
-  ['レトロポリス', 'https://youtu.be/FEALZmOaNuk', 'R'],
+  ['レトロポリス', 'https://youtu.be/FEALZmOaNuk', 'R Sound Design'],
   ['翡翠のまち', 'https://www.nicovideo.jp/watch/sm28614117', 'メル'],
   ['ルームNO4', 'https://youtu.be/bqgLOn4G7Fs', 'すりぃ'],
   ['ハッピーシンセサイザ', 'https://youtu.be/5d0HA90cddc', 'Easy Pop'],
