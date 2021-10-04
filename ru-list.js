@@ -327,6 +327,7 @@ const singableList = [
   ['メリュー','https://www.nicovideo.jp/watch/sm26241520','ナブナ'],
   ['きみのかみ','https://www.nicovideo.jp/watch/sm33378932','Sori Sawada'],
   ['阿吽のビーツ','https://youtu.be/Xfp6v0Mze3k','羽生まゐご'],
+  ['温室魔法','https://www.nicovideo.jp/watch/sm24150041','sea-no'],
   ['','',''],
 ];
 
