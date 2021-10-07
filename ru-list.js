@@ -230,7 +230,6 @@ const singableList = [
   ['ハルノ寂寞', 'https://youtu.be/GOvKn-TEolE', '稲葉曇'],
   ['Booo!', 'https://youtu.be/hbclualhtQI', 'TOKOTOKO(西沢さんP)'],
   ['ロストアンブレラ', 'https://youtu.be/41oNhyOdXGI', '稲葉曇'],
-  ['地球最後の告白', 'https://youtu.be/-UVaVeGOLZI', 'kemu'],
   ['誇り高きアイドル', 'https://youtu.be/pHxnSWaUq_M', 'HoneyWorks'],
   ['群青', 'https://youtu.be/KwtvntYaAbw', 'Ayase'],
   ['六兆年と一夜物語', 'https://youtu.be/4rHYgcbpjyA', 'kemu'],
@@ -328,6 +327,13 @@ const singableList = [
   ['きみのかみ','https://www.nicovideo.jp/watch/sm33378932','Sori Sawada'],
   ['阿吽のビーツ','https://youtu.be/Xfp6v0Mze3k','羽生まゐご'],
   ['温室魔法','https://www.nicovideo.jp/watch/sm24150041','sea-no'],
+  ['ダリアダリア','https://www.nicovideo.jp/watch/sm39025971','ねじ式'],
+  ['シンクロサイクロトロン・スピリチュアライザー。','https://www.nicovideo.jp/watch/sm23886344','砂粒'],
+  ['毒占欲','https://www.nicovideo.jp/watch/sm22786156','DECO*27'],
+  ['twig','https://www.nicovideo.jp/watch/sm34523166','rei sirose'],
+  ['炎','https://www.nicovideo.jp/watch/sm37666930','梶浦由記・LiSA'],
+  ['雪の華','https://www.nicovideo.jp/watch/sm34676848','中島美嘉'],
+  ['鳳仙花','https://www.nicovideo.jp/watch/sm21484534','黒澤まどか'],
   ['','',''],
 ];
 
