@@ -26,7 +26,7 @@ sortObj.setCellRenderer((col, row) => {
 //データ設定
 let items = [];
 let index = 1;
-singableList.forEach(x => items.push({ id: index++, name: x[0], url: x[1], lyricist: x[2] }));
+singableList.forEach(x => items.push({ id: index++, name: x[0], lyricist: x[1], karaoke: x[2], original: x[3] }));
 sortObj.setData(items);
 
 // button handlers
