@@ -15,7 +15,7 @@ sortObj.setCellRenderer((col, row) => {
     }
     // cell-is-not-a-header
     if (typeof colValue !== 'undefined') {
-        if (col.id === 'url') {
+        if ((col.id === 'karaoke') || (col.id === 'original')) {
             return `<td><a href="${colValue}" target="_blank">${colValue}</a></td>`;
         }
         return `<td>${colValue}</td>`;
