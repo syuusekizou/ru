@@ -332,5 +332,6 @@ const singableList = [,
   ['炎', '梶浦由記・LiSA', 'https://www.nicovideo.jp/watch/sm37666930', 'https://youtu.be/4DxL6IKmXx4'],
   ['雪の華', '中島美嘉', 'https://www.nicovideo.jp/watch/sm34676848', 'https://youtu.be/mF5Qq2YheTg'],
   ['鳳仙花', '黒澤まどか', 'https://www.nicovideo.jp/watch/sm21484534', 'https://www.nicovideo.jp/watch/sm21479692'],
+  ['真生活', '案山子', 'https://youtu.be/JWRN1wSxmOU', 'https://www.nicovideo.jp/watch/sm35665550'],
   ['', '', '', ''],
 ];
