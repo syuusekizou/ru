@@ -337,5 +337,8 @@ const singableList = [,
   ['デビル', 'てにをは', 'https://youtu.be/znYSoDggymQ', 'https://youtu.be/N_W38cOlEnc'],
   ['DERO', 'DUSTCELL', 'https://www.nicovideo.jp/watch/sm38819044', 'https://youtu.be/iFKXsCZGV8A'],
   ['ジェラシス', 'Chinozo', 'https://youtu.be/HsSWg_t5z8Y', 'https://youtu.be/UxUe_CIYqWE'],
+  ['カルマ', 'BUMP OF CHICKEN', 'https://www.nicovideo.jp/watch/sm18191565', 'https://youtu.be/mTdcxQZcQAE'],
+  ['神っぽいな', 'ピノキオピー', 'https://youtu.be/SkPD3TYDtuM', 'https://www.nicovideo.jp/watch/sm39334235'],
+  ['群青讃歌', 'Eve', 'https://www.nicovideo.jp/watch/sm39411935', 'https://www.nicovideo.jp/watch/sm39411572'],
   ['', '', '', ''],
 ];
