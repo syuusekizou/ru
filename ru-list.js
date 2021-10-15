@@ -344,5 +344,8 @@ const singableList = [,
   ['WAVE', 'niki', 'https://www.nicovideo.jp/watch/sm18960291', 'https://www.nicovideo.jp/watch/sm18945135'],
   ['ヒビカセ', 'れをる', 'https://www.nicovideo.jp/watch/sm24544710', 'https://www.nicovideo.jp/watch/sm24536934'],
   ['ロメオ', 'HoneyWorks', 'https://youtu.be/qkOzAZF5wDY', 'https://youtu.be/ZNLtEqBbUg4'],
+  ['バレリーコ', 'みきとP', 'https://www.nicovideo.jp/watch/sm24116193', 'https://www.nicovideo.jp/watch/sm24108252'],
+  ['さようなら、花泥棒さん', 'メル', 'https://youtu.be/nH4OOLHLg6g', 'https://www.nicovideo.jp/watch/sm25943367'],
+  ['モア！ジャンプ！モア！', 'ナユタン星人', 'https://youtu.be/-L7f4aiC5GQ', 'https://youtu.be/vjCfKbwD17c'],
   ['', '', '', ''],
 ];
