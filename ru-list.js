@@ -368,5 +368,7 @@ const singableList = [,
   ['〇〇〇〇〇', 'やいり', 'https://www.nicovideo.jp/watch/sm23950741', 'https://www.nicovideo.jp/watch/sm23949752'],
   ['ラグタイムレコード', 'Gyuniku', 'https://www.nicovideo.jp/watch/sm39499951', 'https://youtu.be/39lGjKpMejI'],
   ['何をやってもうまくいかない。', 'meiyo', 'https://youtu.be/zzdHAUBRqzs', 'https://youtu.be/vxoKuhPca-A'],
+  ['バイメーバイメー', 'マイキP (ラトゥラトゥ)', 'https://youtu.be/fst7zAk_FpE', 'https://youtu.be/wKkibRTVOT0'],
+  ['ガランド', 'ピコン', 'https://www.nicovideo.jp/watch/sm33210081', 'https://www.nicovideo.jp/watch/sm33189938'],
   ['', '', '', ''],
 ];
