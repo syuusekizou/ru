@@ -370,5 +370,7 @@ const singableList = [,
   ['何をやってもうまくいかない。', 'meiyo', 'https://youtu.be/zzdHAUBRqzs', 'https://youtu.be/vxoKuhPca-A'],
   ['バイメーバイメー', 'マイキP (ラトゥラトゥ)', 'https://youtu.be/fst7zAk_FpE', 'https://youtu.be/wKkibRTVOT0'],
   ['ガランド', 'ピコン', 'https://www.nicovideo.jp/watch/sm33210081', 'https://www.nicovideo.jp/watch/sm33189938'],
+  ['マシンガンポエムドール', 'cosMo（暴走P）', 'https://www.nicovideo.jp/watch/sm39432589', 'https://www.nicovideo.jp/watch/sm39426624'],
+  ['てんしょう　しょうてんしょう', 'きくお', 'https://www.nicovideo.jp/watch/sm19340221', 'https://www.nicovideo.jp/watch/sm19307778'],
   ['', '', '', ''],
 ];
