@@ -377,5 +377,8 @@ const singableList = [,
   ['ラブレター・フロム・メランコリー', 'カラスヤサボウ', 'https://www.nicovideo.jp/watch/sm25796465', 'https://www.nicovideo.jp/watch/sm25795428'],
   ['名前のない怪物', 'ryo', 'https://www.nicovideo.jp/watch/sm19534542', 'https://youtu.be/4IkLEmswL30'],
   ['The Everlasting Guilty Crown', 'ryo', 'https://www.nicovideo.jp/watch/sm17203188', 'https://youtu.be/gHpQfiKPzbs'],
+  ['パメラ', 'バルーン', 'https://youtu.be/aTvlqyPxnog', 'https://www.nicovideo.jp/watch/sm39472054'],
+  ['アイロニーナ', '煮ル果実', 'https://youtu.be/RtFRiRb8puU', 'https://www.nicovideo.jp/watch/sm38898377'],
+  ['好き!雪!本気マジック', 'Mitchie M', 'https://www.nicovideo.jp/watch/sm22793003', 'https://www.nicovideo.jp/watch/sm22791352'],
   ['', '', '', ''],
 ];
