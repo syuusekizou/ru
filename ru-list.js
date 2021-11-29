@@ -213,6 +213,7 @@ const singableList = [
   ['ポジティブ☆ダンスタイム', 'キノシタ', 'https://youtu.be/9je9rM5mAZc', 'https://www.nicovideo.jp/watch/sm32087162'],
   ['マオ', 'かいりきベア・まふまふ', 'https://youtu.be/HDOG8iaxf1s', 'https://youtu.be/mwnu2aP0Q8g'],
   ['マカロン', 'Atols', 'https://youtu.be/nXQ__WrZ9kQ', 'https://www.nicovideo.jp/watch/sm18579564'],
+  ['マシュマリー', 'MIMI', 'https://www.nicovideo.jp/watch/sm32794183', 'https://www.nicovideo.jp/watch/sm32528864'],
   ['マシンガンポエムドール', 'cosMo（暴走P）', 'https://www.nicovideo.jp/watch/sm39432589', 'https://www.nicovideo.jp/watch/sm39426624'],
   ['マトリョシカ', 'ハチ', 'https://www.nicovideo.jp/watch/sm11832728', 'https://www.nicovideo.jp/watch/sm11809611'],
   ['マーシャル・マキシマイザー', '柊マグネタイト', 'https://youtu.be/PSR2O4ZV0x4', 'https://youtu.be/jMKPYg0uhCI'],
