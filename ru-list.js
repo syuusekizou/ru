@@ -91,7 +91,6 @@ const singableList = [
   ['かまってちょーだい', 'まふまふ', 'https://www.nicovideo.jp/watch/sm34531401', 'https://www.nicovideo.jp/watch/sm34367596'],
   ['からくりピエロ', '40㍍P', 'https://youtu.be/3C4ZzWKNTWo', 'https://www.nicovideo.jp/watch/sm15022913'],
   ['きみのかみ', 'Sori Sawada', 'https://www.nicovideo.jp/watch/sm33378932', 'https://youtu.be/w6kNjeYzFvY'],
-  ['きゅうくらりん', 'いよわ', 'https://www.nicovideo.jp/watch/sm39297255', 'https://www.nicovideo.jp/watch/sm39257413'],
   ['きゅうくらりん', 'いよわ', 'https://youtu.be/cGlPhm0vyc4', 'https://youtu.be/2b1IexhKPz4'],
   ['きらり', 'ふわりP', 'https://www.nicovideo.jp/watch/sm17978148', 'https://www.nicovideo.jp/watch/sm17963335'],
   ['くらべられっ子', 'ツユ', 'https://youtu.be/iZ1g_JAtMqI', 'https://youtu.be/olWvy0PiLfA'],
